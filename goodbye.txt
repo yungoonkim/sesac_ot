@@ -1,1 +1,2 @@
 goodbye git
+welcome git
