@@ -1,7 +1,5 @@
 hello git
 
-ssh도 완료
-
 hi
 
 eeeeee
